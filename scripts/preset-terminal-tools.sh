@@ -8,6 +8,8 @@
 # Blog: https://mlapp.cn
 #=================================================
 
+exit 0
+
 mkdir -p files/root
 pushd files/root
 
